@@ -45,7 +45,7 @@ public class VariaveisFlutuantes{
 
         System.out.println("O valor da variável de numero1 é " + numero1 + " e a numero2 é " + nome); //estou exibindo no terminal os valores das variáveis, para juntar elas, você concatena a string com os valores usando o "+" e depois o nome da variável.
 
-        System.out.println("A media de idades da turma é de " + mediaIdades ".");
+        System.out.println("A media de idades da turma é de " + mediaIdades + ".");
     }
 }
 ```
